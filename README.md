@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fihud Amien Wahidn</h1>
-<h3 align="center">A passionate designer and frontend developer from Indonesia</h3>
+<h3 align="center">A passionate designer and code enthusiasts from Indonesia</h3>
 
 - 💬 Ask me about **Design, Code or etc.**
 
