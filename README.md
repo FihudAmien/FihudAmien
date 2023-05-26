@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fihud Amien Wahidn</h1>
 <h3 align="center">A passionate designer and frontend developer from Indonesia</h3>
 
-- 💬 Ask me about **Laravel, Javascript etc.**
+- 💬 Ask me about **Design, Code or etc.**
 
 - 📫 How to reach me **Fihudamien72@gmail.com**
 
